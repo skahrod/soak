@@ -1,6 +1,6 @@
-# soak
+# Day per Foot
 
-A free, open-source tool for basketmakers to log how long their willow takes to soak, and how it turned out.
+Day per Foot is a free, open-source tool for basketmakers to log how long their willow takes to soak, and how it turned out.
 
 **Status:** early days. The first version will be a simple logging tool: what went in the tank, when it came out, and a 1–5 rating after weaving. Everyone's ratings feed a shared soaking model, which will offer predictions once there's enough data to trust them.
 
